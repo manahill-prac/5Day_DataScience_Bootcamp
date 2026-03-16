@@ -41,6 +41,7 @@ DS Team Co-Lead — GDGoC COMSATS Wah
 
 ## What You Will Find in This Repo
 
+```
 5Day_DataScience_Bootcamp/
 │
 ├── Day1/
@@ -62,7 +63,7 @@ DS Team Co-Lead — GDGoC COMSATS Wah
 └── Day5/
     ├── slides/
     └── code/
-
+```
 
 ## What Was Covered
 
