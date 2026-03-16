@@ -29,13 +29,13 @@ DS Team Co-Lead — GDGoC COMSATS Wah
 
 ## Bootcamp Structure
 
-| Day | Topic |
-|-----|-------|
-| Day 1 |  DS Pipeline + Python Foundations |
-| Day 2 | Data Cleaning & Processing |
-| Day 3 | EDA + Data Visualization | 
-| Day 4 | Feature Engineering |
-| Day 5 | Model Building + Evaluation |
+| Day | Topic | Instructor |
+|-----|-------|-------|
+| Day 1 |  DS Pipeline + Python Foundations | Manahil Mirza |
+| Day 2 | Data Cleaning & Processing | Danyal  Ahmed |
+| Day 3 | EDA + Data Visualization | Danyal  Ahmed |
+| Day 4 | Feature Engineering | Manahil Mirza |
+| Day 5 | Model Building + Evaluation | Manahil Mirza |
 
 
 
