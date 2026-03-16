@@ -30,7 +30,7 @@ DS Team Co-Lead — GDGoC COMSATS Wah
 ## Bootcamp Structure
 
 | Day | Topic |
-|-----|-------|----------------|
+|-----|-------|
 | Day 1 |  DS Pipeline + Python Foundations |
 | Day 2 | Data Cleaning & Processing |
 | Day 3 | EDA + Data Visualization | 
